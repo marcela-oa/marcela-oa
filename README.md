@@ -4,7 +4,7 @@
 </div>
 <br>
   📚 Participante do Bootcamp Generation Brasil <br>
-  🖥 Uma futura desenvolvedora fullstack Java <br>
+  🖥 Uma futura desenvolvedora Java <br>
   🌱 Bacharela em Gestão Ambiental - USP <br>
   👩 Pronome: Ela/She<br>
   ✉ Me manda um e-mail ou me chama lá no LinkedIn 😉 <br> 
