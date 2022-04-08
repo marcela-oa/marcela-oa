@@ -5,6 +5,7 @@
 <br>
   📚 Participante do Bootcamp Generation Brasil <br>
   🖥 Uma futura desenvolvedora fullstack Java <br>
+  🌱 Bacharela em Gestão Ambiental - USP <br>
   👩 Pronome: Ela/She<br>
   ✉ Me manda um e-mail ou me chama lá no LinkedIn 😉 <br> 
   --> mmarcela.oa@gmail.com  ||  <a href="https://www.linkedin.com/in/marcela-oliveira-2056551b7/" target="_blank"><img align="center" height="22em" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" target="_blank"></a>
