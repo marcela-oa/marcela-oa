@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://github.com/marcela-oa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcela-oa&show_icons=true&theme=cobalt&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela-oa&layout=demo&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela-oa&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
   ##
