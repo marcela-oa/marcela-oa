@@ -3,9 +3,7 @@
   <img align="right" height="200" style="border-radius:50px;" src="https://t2.tudocdn.net/178701?w=646&h=284">
 </div>
 <br>
-  📚 Participante do Bootcamp Generation Brasil <br>
-  🖥 Desenvolvedora Java <br>
-  🌱 Bacharela em Gestão Ambiental - USP <br>
+  🖥 Desenvolvedora de Software <br>
   👩 Pronome: Ela/She<br>
   ✉ Me manda um e-mail ou me chama lá no LinkedIn 😉 <br> 
   --> mmarcela.oa@gmail.com  ||  <a href="https://www.linkedin.com/in/marcela-oliveira-2056551b7/" target="_blank"><img align="center" height="22em" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" target="_blank"></a>
